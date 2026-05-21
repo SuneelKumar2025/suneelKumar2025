@@ -7,4 +7,4 @@
   https://github.com/Fundacio-i2CAT/ns3-WiFi-MLO
 
 - RL-based wireless scheduling (ns3-gym experiments)  
-  https://github.com/YOUR_USERNAME/ns3-gym-RL
+  https://github.com/SuneelKumar2025/ns3-gym-RL
